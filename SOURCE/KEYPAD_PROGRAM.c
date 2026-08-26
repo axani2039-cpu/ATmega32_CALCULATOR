@@ -1,11 +1,3 @@
-/*
- * KEYPAD_PROGRAM.c
- *
- *  Created on: Aug 26, 2026
- *      Author: ahmed
- */
-
-
 #include <util/delay.h>
 #include "../INCLUDE/LIB/STD_TYPES.h"
 #include "../INCLUDE/LIB/BIT_MATH.h"

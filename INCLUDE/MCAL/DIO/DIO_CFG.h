@@ -1,10 +1,3 @@
-/*
- * DIO_CFG.h
- *
- *  Created on: Aug 26, 2026
- *      Author: ahmed
- */
-
 #ifndef INCLUDE_MCAL_DIO_DIO_CFG_H_
 #define INCLUDE_MCAL_DIO_DIO_CFG_H_
 

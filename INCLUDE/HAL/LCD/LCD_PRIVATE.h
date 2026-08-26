@@ -1,9 +1,3 @@
-/*
- * LCD_PRIVATE.h
- *
- *  Created on: Aug 26, 2026
- *      Author: ahmed
- */
 #include "../../LIB/BIT_MATH.h"
 #ifndef INCLUDE_HAL_LCD_LCD_PRIVATE_H_
 #define INCLUDE_HAL_LCD_LCD_PRIVATE_H_

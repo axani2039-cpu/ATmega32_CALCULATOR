@@ -1,10 +1,3 @@
-/*
- * KEYPAD_INTERFACE.h
- *
- *  Created on: Aug 26, 2026
- *      Author: ahmed
- */
-
 #ifndef INCLUDE_HAL_KEYPAD_KEYPAD_INTERFACE_H_
 #define INCLUDE_HAL_KEYPAD_KEYPAD_INTERFACE_H_
 

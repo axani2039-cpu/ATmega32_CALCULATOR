@@ -1,10 +1,3 @@
-/*
- * LCD_INTERFACE.h
- *
- *  Created on: Aug 26, 2026
- *      Author: ahmed
- */
-
 #ifndef INCLUDE_HAL_LCD_LCD_INTERFACE_H_
 #define INCLUDE_HAL_LCD_LCD_INTERFACE_H_
 

@@ -1,9 +1,3 @@
-/*
- * KEYPAD_PRIVATE.h
- *
- *  Created on: Aug 26, 2026
- *      Author: ahmed
- */
 
 #ifndef INCLUDE_HAL_KEYPAD_KEYPAD_PRIVATE_H_
 #define INCLUDE_HAL_KEYPAD_KEYPAD_PRIVATE_H_
